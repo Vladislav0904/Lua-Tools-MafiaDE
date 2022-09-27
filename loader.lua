@@ -13,6 +13,7 @@ loader._luas = {
     "Data/weaponsData.lua",
     "Data/weatherData.lua",
     "Data/wheelsData.lua",
+    "Data/raceData.lua",
 
     "Menu/mainMenu.lua",
     "Menu/raceMenu.lua",
